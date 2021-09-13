@@ -1,2 +1,2 @@
-# hello-world
+# hello-word
 just a test
